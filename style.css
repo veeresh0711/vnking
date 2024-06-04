@@ -1,0 +1,12 @@
+.Ready {
+    background-image: url(bg1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+.see {
+   background-image: url(bg2.jpg);
+   background-size: cover;
+   background-attachment: fixed;
+   background-position: center center;
+}
